@@ -1,0 +1,16 @@
+C:\Users\yunus\Desktop\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\yunus\Desktop\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\yunus\Desktop\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\yunus\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\yunus\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+C:\Users\yunus\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
+C:\Users\yunus\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\yunus\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
+C:\Users\yunus\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.AddWord.resources
+C:\Users\yunus\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.Login.resources
+C:\Users\yunus\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.MainMenu.resources
+C:\Users\yunus\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.Learn.resources
+C:\Users\yunus\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.Test.resources
+C:\Users\yunus\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.Learned.resources
+C:\Users\yunus\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.NewUser.resources
+C:\Users\yunus\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.Statistic.resources
